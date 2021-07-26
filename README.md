@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brun0S1lv4
 - 👀 I’m interested in Programming, Data Science and A.I.
-- 🌱 I’m currently learning programming Logic and python syntax
+- 🌱 I’m currently learning python modules and pandas
 - 📫 my contact: karateu@outlook.com
 
 <!---
